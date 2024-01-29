@@ -12,16 +12,21 @@ The primary goal of this project is to enhance understanding of the lunar terrai
 **Key Features**
 
 > Implementation of Convolutional Neural Networks (CNNs), U-net architecture, and transfer learning.
+
 > Efficient image segmentation of lunar surface photographs.
+
 > Robust and reliable outcomes for rock detection.
 
 **Usage**
 
 > Download the Artificial Lunar Rocky Landscape Dataset on Kaggle.
+
 > Set the img_dir and mask_dir paths in the notebook to the dataset's image and mask directories.
+
 > Run the provided code in a Jupyter environment.
 
 **Two Key Achievements**
 
 - Developed a U-Net model for lunar landscape segmentation, demonstrating proficiency in deep learning for image analysis.
+  
 - Conducted a comprehensive analysis of hyperparameters, achieving optimal performance with a maximum Intersection over Union (IoU) score of 0.80.
