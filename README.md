@@ -1,4 +1,4 @@
-# Lunar-Terrain-Analysis-with-Image-Segmentation
+# Lunar Terrain Analysis with Image Segmentation
 
 Welcome to the Lunar Terrain Analysis project! This repository houses the code and resources for developing an advanced computer vision system tailored to precisely identify and segment rocks on the lunar surface.
 
