@@ -55,7 +55,7 @@ To set up your development environment and run this project locally, follow the 
      python main.py
      ```
 
-> If you encounter any issues, double-check that the dataset paths in `main_script.py` are accurate and that you're running inside the virtual environment.
+> If you encounter any issues, double-check that the dataset paths in `main.py` are accurate and that you're running inside the virtual environment.
 
 
 ## Dataset
